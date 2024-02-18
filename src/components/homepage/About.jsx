@@ -68,7 +68,7 @@ export default function About() {
               about data science, travelling and gaming on{" "}
               <a
                 className="underline duration-300 ease-in-out hover:text-secondary-700"
-                href="https://www.youtube.com/channel/UCBOAB9RV647G93GxLhEXleA"
+                href=""
               >
                 Instagram 📸
               </a>
