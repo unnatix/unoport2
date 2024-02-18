@@ -55,7 +55,7 @@ export default function NavBar({ sectionRefs }) {
       className="fixed top-0 z-50 flex w-full -translate-y-full items-center justify-between bg-secondary-100 px-5 py-3"
     >
       {/* logo */}
-      <a href="#hero" aria-label="Logo" className="z-50">
+      {/* <a href="#hero" aria-label="Logo" className="z-50">
         <svg
           ref={logo}
           width="80"
@@ -81,7 +81,15 @@ c21 3 36 12 36 20 0 11 -29 14 -149 14 -83 0 -152 -4 -156 -9z" />
             c21 3 36 12 36 20 0 11 -29 14 -149 14 -83 0 -152 -4 -156 -9z"
           />
         </svg>
-      </a>
+      </a> */}
+      <a href="#hero" aria-label="Logo" className="z-50">
+      <img
+        src={require('./assets/icons/Navbar/logo.svg')}
+        alt="Logo"
+        width="80"
+        height="45"
+      />
+    </a>
       <nav className=" space-x-7 font-grotesk text-body-3 sm:block">
         <a href="#about" className="group relative hidden md:inline-block">
           <span>about</span>
