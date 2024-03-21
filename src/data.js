@@ -7,34 +7,17 @@ import sunnyside from '/src/assets/images/sunny-side-square.webp';
 
 const projectsData = [
   {
-    title: 'IB Group Vietnam Website',
-    description: 'Web Design / Frontend Development',
+    title: 'Data Analysis of the Current developments in the Agriculturalland market of The Netherlands',
+    description: 'Data Analysis, Econometrics',
     imageSrc: ibgroup,
-    link: 'https://musical-stroopwafel-1c2327.netlify.app/landing.html'
+    link: ''
   },
-  {
-    title: 'Memento Studio Landing Page',
-    description: 'Web Design / Frontend Development',
-    imageSrc: memento,
-    link: 'https://mementostudio.netlify.app/'
-  },
-  {
-    title: 'Real Business Accountants',
-    description: 'Web Design / Frontend Development',
-    imageSrc: acc,
-    link: 'https://realbusinessaccountants.netlify.app'
-  },
-  {
-    title: 'GoDaddy Landing Page Clone',
-    description: 'Web Design / Frontend Development',
-    imageSrc: daddy,
-    link: 'https://godaddyuiclone.netlify.app'
-  },
+
   {
     title: 'Sunnyside Landing Page',
     description: 'Web Design / Frontend Development',
     imageSrc: sunnyside,
-    link: 'https://sunnysidechallenge.netlify.app'
+    link: ''
   }
 ];
 

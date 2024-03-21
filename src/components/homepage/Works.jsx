@@ -1,4 +1,4 @@
-import ibgroup from "/src/assets/images/ib-group-desktop.webp";
+import ibgroup from "/src/assets/images/Untitled presentation.svg";
 import memento from "/src/assets/images/memento-desktop.webp";
 import acc from "/src/assets/images/acc-square.webp";
 import daddy from "/src/assets/images/godaddy-desktop.webp";
@@ -20,11 +20,11 @@ export default function Works({ forwardedRef }) {
           <Projects
             link=""
             img={ibgroup}
-            alt="Data Anlaysis for Company Swe"
-            name="Data Anlaysis for Company"
+            alt="Data Analysis of the Current developments in the Agricultural land market of The Netherlands"
+            name="Data Analysis of the Current developments in the Agricultural land market of The Netherlands"
             type="Data Analysis • Econometrics"
             year="2024"
-            tools="Python • SQL • PowerBI"
+            tools="Python • SQL • PowerBI • QGIS • Machine Learning"
 
           />
         </div>
