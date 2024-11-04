@@ -57,15 +57,21 @@ export default function About() {
               A brief intro, who am I?
             </h3>
             <p ref={body} className=" translate-y-10 text-body-1 2xl:text-4xl opacity-0">
-            Hello! I'm a Data Analyst and a Master's student specializing in Economics and Data Science at Jönköping University, Sweden.
+
+
+
+              Hello! I'm Unnati Gupta, a Data Analyst and Master's student in Data Science and Applied Economics at Jönköping University, Sweden.
               <br></br>
-              <br></br>I specialize in crafting data science reports, predictive models and economic reports 
-              for startups and small businesses to help
-              them stand out in the digital landscape with a powerful impact. 😎
+              <br></br>
+              With a strong foundation in Python, SQL, and Tableau, I thrive on transforming complex datasets into actionable insights that drive strategic decisions. 
+              I specialize in crafting data science reports, predictive models and economic reports for startups and small businesses to help them stand out in the digital landscape with a powerful impact. 😎
+              My experience spans across econometric analysis, predictive modeling, and exploratory data analysis, with projects covering everything from social media engagement metrics to market forecasting for the hospitality sector. 
               <br></br>
               <br></br>
-              When I am not developing or designing, I enjoy creating content
-              about data science, travelling and gaming on
+              I'm particularly passionate about using data science and economic analysis to deliver value-driven solutions for companies looking to make a significant impact.
+              <br></br>
+              <br></br>
+              When I'm not delving into data, you'll find me creating content around data science, exploring new travel destinations, and immersing myself in gaming adventures!
               {/* {" "} */}
               {/* <a
                 className="underline duration-300 ease-in-out hover:text-secondary-700"

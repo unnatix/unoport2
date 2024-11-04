@@ -155,7 +155,7 @@ export default function Contact() {
                 </div>
               </a>
               <a
-                href="https://github.com/unnatixg"
+                href="https://github.com/unnatigds"
                 className="group flex items-center space-x-2"
                 target="_blank"
                 rel="noreferrer"

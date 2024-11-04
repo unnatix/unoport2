@@ -6,7 +6,7 @@ export default function Services() {
     "Data Analysis",
     "Machine Learning",
     "Economic analysis",
-    "Data Engineering",
+    "Business Development",
     "Consulting",
   ];
 
