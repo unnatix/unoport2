@@ -30,7 +30,7 @@ export default function Works({ forwardedRef }) {
 <div className="col-span-1 md:col-span-12">
   <Projects
     link=""
-    img={netflixImage}
+    img={ibgroup}
     alt="Strategic Content Performance Analysis Using Netflix Dataset"
     name="Strategic Content Performance Analysis Using Netflix Dataset"
     type="Data Analysis • Machine Learning"
@@ -44,7 +44,7 @@ export default function Works({ forwardedRef }) {
 <div className="col-span-1 md:col-span-12">
   <Projects
     link=""
-    img={hospitalityImage}
+    img={ibgroup}
     alt="Analysis of the Hospitality Sector Employment in Swedish Municipalities"
     name="Analysis of the Hospitality Sector Employment in Swedish Municipalities"
     type="Data Collection & Analysis • Econometrics"
@@ -58,7 +58,7 @@ export default function Works({ forwardedRef }) {
 <div className="col-span-1 md:col-span-12">
   <Projects
     link=""
-    img={retirementImage}
+    img={ibgroup}
     alt="Early Retirement Decision Analysis"
     name="Early Retirement Decision Analysis"
     type="Data Analysis • Econometrics"
