@@ -1,5 +1,5 @@
 import { useEffect, useRef } from "react";
-import profileImg from "/src/assets/images/profile.webp";
+import profileImg from "/src/assets/images/profile.png";
 import { ScrollTrigger } from "gsap/all";
 import { gsap } from "gsap";
 import Heading from "../ui/Heading";
@@ -45,7 +45,7 @@ export default function About() {
             src={profileImg}
             width="600"
             height="800"
-            alt="portrait image of Huy standing in front of a tree and foliage"
+            alt="portrait image of unnati"
           />
         </div>
         <div className="top-20 sm:sticky md:top-28 lg:top-32 md:w-1/2">
@@ -65,13 +65,14 @@ export default function About() {
               <br></br>
               <br></br>
               When I am not developing or designing, I enjoy creating content
-              about data science, travelling and gaming on{" "}
-              <a
+              about data science, travelling and gaming on
+              {/* {" "} */}
+              {/* <a
                 className="underline duration-300 ease-in-out hover:text-secondary-700"
                 href=""
               >
                 Instagram 📸
-              </a>
+              </a> */}
             </p>
           </div>
         </div>
