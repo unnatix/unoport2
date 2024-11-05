@@ -108,7 +108,7 @@ c21 3 36 12 36 20 0 11 -29 14 -149 14 -83 0 -152 -4 -156 -9z" />
         <a
           ref={cta}
           className="button group relative hover:bg-transparent"
-          href="/src/assets/images/resume.pdf"
+          href="/resume.pdf"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -117,6 +117,7 @@ c21 3 36 12 36 20 0 11 -29 14 -149 14 -83 0 -152 -4 -156 -9z" />
             <span>Resume</span>
           </span>
         </a>
+
       </nav>
     </header>
   );
