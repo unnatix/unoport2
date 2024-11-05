@@ -1,4 +1,6 @@
 import ibgroup from "/src/assets/images/Untitled presentation.svg";
+import hospitality from "/src/assets/images/hospitality.svg";
+import retirement from "/src/assets/images/retirement.svg";
 import Projects from "../ui/Projects";
 import Heading from "../ui/Heading";
 
@@ -26,7 +28,7 @@ export default function Works({ forwardedRef }) {
   />
 </div>
 
-{/* Project #2 */}
+{/* Project #2
 <div className="col-span-1 md:col-span-12">
   <Projects
     link=""
@@ -38,18 +40,18 @@ export default function Works({ forwardedRef }) {
     tools="Python • SQL • Tableau"
     description="Analyzed the Netflix Movies and TV Shows dataset to identify key performance indicators (KPIs) and predict content success. Applied machine learning for engagement prediction, leveraging feature selection to enhance model accuracy and insights."
   />
-</div>
+</div> */}
 
 {/* Project #3 */}
 <div className="col-span-1 md:col-span-12">
   <Projects
     link=""
-    img={ibgroup}
+    img={hospitality}
     alt="Analysis of the Hospitality Sector Employment in Swedish Municipalities"
     name="Analysis of the Hospitality Sector Employment in Swedish Municipalities"
     type="Data Collection & Analysis • Econometrics"
     year="2024"
-    tools="Python • SQL • Stata"
+    tools="Python • SQL • Excel "
     description="Conducted a detailed study of employment determinants in the hospitality sector across Swedish municipalities, using random and fixed effects regression models to analyze the impact of demographic and economic factors."
   />
 </div>
@@ -58,7 +60,7 @@ export default function Works({ forwardedRef }) {
 <div className="col-span-1 md:col-span-12">
   <Projects
     link=""
-    img={ibgroup}
+    img={retirement}
     alt="Early Retirement Decision Analysis"
     name="Early Retirement Decision Analysis"
     type="Data Analysis • Econometrics"

@@ -26,14 +26,14 @@ export default function Services() {
       <div className="space-y-14">
         <ServiceUi
           title="my expertises."
-          description="I focus on the complete data science workflow from designing to building
-          services, my goal is to deliver an impactful and elevating
-          data experience for businesses."
+          description="I specialize in crafting data science reports, predictive models and economic reports for startups and small businesses 
+          to help them stand out in the digital landscape with a powerful impact. "
           items={expertiseItems}
         />
         <ServiceUi
           title="my digital tool box."
-          description="These are my go to tech stack to make any data science project happen. I am always eager of learning more about my current stack, and new technologies that could expand my horizons."
+          description="These are my go to tech stack to make any data science project happen. 
+          I am always eager of learning more about my current stack, and new technologies that could expand my skills."
           items={toolBoxItems}
         />
       </div>
