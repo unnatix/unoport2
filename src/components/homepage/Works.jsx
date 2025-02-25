@@ -17,7 +17,7 @@ export default function Works({ forwardedRef }) {
 {/* Project #1 */}
 <div className="col-span-1 md:col-span-12">
   <Projects
-    link=""
+    link="https://github.com/unnatigds/agri-land-market-analysis"
     img={ibgroup}
     alt="Data Analysis of the Current Developments in the Agricultural Land Market of The Netherlands"
     name="Data Analysis of the Current Developments in the Agricultural Land Market of The Netherlands"
@@ -45,7 +45,7 @@ export default function Works({ forwardedRef }) {
 {/* Project #3 */}
 <div className="col-span-1 md:col-span-12">
   <Projects
-    link=""
+    link="https://github.com/unnatigds/hospitality-employment-analysis"
     img={hospitality}
     alt="Analysis of the Hospitality Sector Employment in Swedish Municipalities"
     name="Analysis of the Hospitality Sector Employment in Swedish Municipalities"
@@ -59,7 +59,7 @@ export default function Works({ forwardedRef }) {
 {/* Project #4 */}
 <div className="col-span-1 md:col-span-12">
   <Projects
-    link=""
+    link="https://github.com/unnatigds/early-retirement-analysis"
     img={retirement}
     alt="Early Retirement Decision Analysis"
     name="Early Retirement Decision Analysis"
