@@ -1,6 +1,6 @@
 import ibgroup from "/src/assets/images/Untitled presentation.svg";
-import hospitality from "/src/assets/images/hospitality.svg";
-import retirement from "/src/assets/images/retirement.svg";
+import hospitality from "/src/assets/images/hospitality.png";
+import retirement from "/src/assets/images/retirement.png";
 import Projects from "../ui/Projects";
 import Heading from "../ui/Heading";
 
